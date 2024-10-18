@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: burlywood;
+}
+
+
+.div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(195, 131, 48);
+}
+
+.div1{                                  
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+}
+
+#Cheesboard{
+    width: 800px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25%;
+    margin-bottom: 25px;
+    display: flex;  
+    border: 5px solid black;
+}
+
+#outer{  
+    width: 100px;
+    margin: 0%;
+}
+
